@@ -1,2 +1,1 @@
-# shalika-itpm
-
+Playwright-based automation testing project for ITPM Assignment 01, focusing on functional and UI testing of the Singlish to Sinhala Translator (swifttranslator.com). Includes automated positive, negative, and UI test scenarios with real-time output validation.
